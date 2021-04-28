@@ -29,6 +29,13 @@ namespace WebMySQL
             services.AddDbContext<Contexto>(options =>
             options.UseMySQL(stringConexao));
             services.AddControllersWithViews();
+            services.AddAuthentication("Identity.Login")
+                .AddCookie("Identity.Login", config => {
+                    config.Cookie.Name = "Identity.Login";
+                    config.LoginPath = "/Login";
+                    config.AccessDeniedPath = "/Home";
+                    config.ExpireTimeSpan = TimeSpan.FromHours(1);
+                });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +53,7 @@ namespace WebMySQL
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

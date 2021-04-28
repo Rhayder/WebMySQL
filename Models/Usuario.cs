@@ -30,6 +30,15 @@ namespace WebMySQL.Models
         [Column("Email")]
         public string Email { get; set; }
 
+        [Display(Name = "Username")]
+        [Column("Username")]
+        public string Username { get; set; }
+
+        [Display(Name = "Senha")]
+        [Column("Senha")]
+        public string Senha { get; set; }
+
+        
 
     }
 }

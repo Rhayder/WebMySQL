@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\WebMySQL.csproj": {}
+    "C:\\Projetos Pessoais\\WebMySQL\\WebMySQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\WebMySQL.csproj": {
+    "C:\\Projetos Pessoais\\WebMySQL\\WebMySQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\WebMySQL.csproj",
+        "projectUniqueName": "C:\\Projetos Pessoais\\WebMySQL\\WebMySQL.csproj",
         "projectName": "WebMySQL",
-        "projectPath": "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\WebMySQL.csproj",
+        "projectPath": "C:\\Projetos Pessoais\\WebMySQL\\WebMySQL.csproj",
         "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\obj\\",
+        "outputPath": "C:\\Projetos Pessoais\\WebMySQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

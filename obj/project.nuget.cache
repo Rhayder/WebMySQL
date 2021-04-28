@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCsDcWc0DKK67Zj7kcmqsex8ZmsFt/4K2A0p52HANZShFgUUkoMUAJYIRlb9KtFvN8knIgObZGKjNshpE1jEKQ==",
+  "dgSpecHash": "r58etB5FA68rkrXuOTNZAUS0SlviOyj07auJli3FIFEwuoloW20QEigmA6Ub/5Og6G8udfPItSEHSYA5MmciYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Notebook\\source\\repos\\WebMySQL\\WebMySQL.csproj",
+  "projectFilePath": "C:\\Projetos Pessoais\\WebMySQL\\WebMySQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Notebook\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Notebook\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
